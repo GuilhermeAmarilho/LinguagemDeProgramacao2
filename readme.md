@@ -11,36 +11,33 @@
 ## Atividades
 - Projetos feitos durante o 3º semestre de Ciências da Computação.
 
-#### Listas Encadeadas:
-- [Atividade Lista encadeada simples](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2003%20-%20Lista%20ordenada%20e%20encadeada/listaOrdenada.c)
-- [Atividade Lista encadeada dupla](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2004%20-%20Listas%20duplamente%20encadeada%20e%20circular/ListaEncadeadaDupla.c)
+#### Base PHP:
+- [Código simples](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2002%20-%20Aprendendo%20PHP/index.php)
+- [Combustivel](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2002%20-%20Aprendendo%20PHP/Lista%20de%20exercicios%20-%20Terminal/combustivel.php)
 
-#### Filas
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/filas.pdf)
-- [Fila Simples](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/fila.c)
-- [Fila com Prioridade](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/fila.c)
+#### Protocolo HTTP
+- [Problemática](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20)
+- [Calculadora](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2003%20-%20Protocolo%20HTTP/Exercicio-calculadora/index.php)
 
-#### Pilhas
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/pilha.pdf)
-- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/pilha.c)
-- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/exercicio1.c)
+#### Exercício prático 1 - Cookie e Session
+- [Controller](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2005%20-%20Cookies%20e%20sess%C3%B5es/controller/controlador.php)
+- [Cadastro](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2005%20-%20Cookies%20e%20sess%C3%B5es/controller/cadastro.php)
+- [Index](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2005%20-%20Cookies%20e%20sess%C3%B5es/index.php)
 
-#### Busca Linear & Busca Binária 
-- [Atividade Seminário - Busca Linear e Busca Binaria](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2008%20-%20Semin%C3%A1rios/Apresenta%C3%A7%C3%A3o%20BuscaLinear%20e%20BuscaBin%C3%A1ria.pdf)
-- [Busca Linear - Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2008%20-%20Semin%C3%A1rios/Busca_Linear.c)
-- [Busca Binária - Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2008%20-%20Semin%C3%A1rios/Busca_Binaria.c)
+#### Exercício prático 2 - Cookies e Sessions 
+- [Problemática](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2007%20-%20Marketplace/getStart/Enunciado.txt)
+- [Index](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2007%20-%20Marketplace/index.php)
+- [Controller](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2007%20-%20Marketplace/controller)
+- [Model](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2007%20-%20Marketplace/model)
+- [View](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2007%20-%20Marketplace/view)
 
-#### QuickSort
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2009%20-%20QuickSort/Quicksort.pdf)
-- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2009%20-%20QuickSort/QuickSort.c)
-
-#### Hashing
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/Tabela%20Hash.pdf)
-- [Hash - vetor](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_em_vetor.c)
-- [Hash - String](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_string.c)
-- [Hash - Lista Encadeada](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_em_lista_encadeada.c)
-
+#### Exercício prático 3 - Padrão MVC 
+- [Descritivo e Projeto](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC)
+  
 ### Projeto Final
-- [Problema Proposto](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/Problema%20Trabalho%20Final%20ED.pdf)
-- [Descritivo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/README.md)
-- [Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/main.c)
+- [Problemática do trabalho final](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2012%20-%20Projeto%20Final/getStart/DescritivoProjetoFinal.pdf) 
+- [Descritivo](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2012%20-%20Projeto%20Final)
+- [Application](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2012%20-%20Projeto%20Final/Application)
+- [Public](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2012%20-%20Projeto%20Final/public)
+- [Base de dados](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2012%20-%20Projeto%20Final/getStart/SQL-Script.sql)
+- [Relatório Final](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2012%20-%20Projeto%20Final/getStart/RelatorioFinal.pdf)
