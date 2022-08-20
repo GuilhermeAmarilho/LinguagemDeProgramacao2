@@ -33,7 +33,10 @@
 
 #### Exercício prático 3 - Padrão MVC 
 - [Descritivo e Projeto](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC)
-  
+- [Base de dados](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2010%20-%20Projeto%20MVC/getStart/SQL-Script.sql)
+- [Application](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC/Application)
+- [Public](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2010%20-%20Projeto%20MVC/public)
+
 ### Projeto Final
 - [Problemática do trabalho final](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/blob/master/Aula%2012%20-%20Projeto%20Final/getStart/DescritivoProjetoFinal.pdf) 
 - [Descritivo](https://github.com/GuilhermeAmarilho/Linguagem-Programacao-2/tree/master/Aula%2012%20-%20Projeto%20Final)
